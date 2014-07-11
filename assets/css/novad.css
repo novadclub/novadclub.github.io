@@ -1,0 +1,98 @@
+body {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.navbar {
+  border-radius: 0;
+}
+.navbar-default {
+  border: none;
+  background: none;
+  border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 10px;
+}
+.navbar-collapse {
+  border: none;
+}
+.navbar .container-fluid {
+  padding-right: 0;
+}
+.navbar-toggle {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 13px 10px;
+}
+.navbar .nv_logo {
+  display: block;
+  width: 130px;
+  height: 32px;
+  margin-top: 5px;
+  background-image: url("/assets/images/logo-130x32-20140702201335.gif");
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+}
+.nv_home,
+.nv_detail {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+}
+.jumbotron .btn {
+  padding: 14px 24px;
+  font-size: 21px;
+}
+.nv_detail {
+  margin: 0 0;
+}
+.nv_detail h3 {
+  margin-top: 0;
+}
+.nv_detail h4 {
+  margin-top: 28px;
+}
+.nv_home p + h4 {
+  margin-top: 28px;
+}
+.nv_home p + h3 {
+  margin-top: 36px;
+}
+.nv_detail p,
+.nv_home p {
+  font-size: 16px;
+}
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .nv_home,
+  .nv_detail {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  .nv_home {
+    margin: 40px 0;
+  }
+  .jumbotron {
+    border-bottom: 0;
+  }
+}
+.nv_codespaces_quote {
+  font-weight: bold;
+}
+dl.nv_termlist {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.nv_termlist dt {
+  margin-bottom: 4px;
+}
+.nv_termlist dd {
+  margin-bottom: 12px;
+}

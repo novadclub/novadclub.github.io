@@ -1,0 +1,20 @@
+# Site settings
+name: NoVAD
+title: "Stop Virtually Assured Destruction"
+description: "NoVAD advocates for sensible cyber safeguards to stop virtually assured destruction by criminals and terrorists"
+baseurl: ""
+url: "http://www.novad.club"
+linked_in_url: "https://www.linkedin.com/groups/NoVAD-6718590/about"
+
+defaults:
+  - 
+    scope:
+      path: "en"
+    values:
+      layout: "page"
+
+# Build settings
+permalink: none
+markdown: kramdown
+kramdown:
+  auto_ids: false

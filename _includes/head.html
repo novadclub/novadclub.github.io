@@ -1,0 +1,15 @@
+<head>
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="icon" href="/assets/images/favicon-32x32-20140702224913.png" sizes="32x32" type="image/png">
+  <link rel="shortcut icon" href="/assets/images/favicon-20140702224828.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/css/novad.css">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-language" content="en">
+  <meta http-equiv="content-type" content="text/html;charset=utf-8">
+  <meta name="author" content="NoVAD: Stop Virtually Assured Destruction">
+  <meta name="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.name | escapse }} | {% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+</head>
