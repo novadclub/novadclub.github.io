@@ -3,10 +3,9 @@ layout: default
 title: "Stop Virtually Assured Destruction"
 description: "NoVAD advocates for sensible cyber safeguards to stop virtually assured destruction by criminals and terrorists"
 ---
-
 {% include index-jumbotron.html %}
 {::options parse_block_html="true" /}
-<div class="row nv_home">
+<div class="nv_home">
 
 #### The Problem
 
@@ -49,9 +48,12 @@ Like the Trash can on your desktop, deleted cloud assets should not be
 destroyed immediately.  Even a few hours delay before "emptying the
 trash" would have helped Code Spaces save their business.
 
-#### Join Us
+#### Help Us
 
 [Please join our group on LinkedIn]({{ site.linked_in_url }}) to help
 us encourage cloud service providers to have sensible cyber safeguards
 to help prevent virtual destruction of your business.
 
+Tell your friends!
+
+</div>
