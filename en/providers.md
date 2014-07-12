@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Providers"
 description: "NoVAD Providers implement sensible cyber safeguards to stop virtually assured destruction"
 ---
