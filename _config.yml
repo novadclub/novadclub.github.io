@@ -6,6 +6,11 @@ baseurl: ""
 url: "http://www.novad.club"
 linked_in_url: "https://www.linkedin.com/groups/NoVAD-6718590/about"
 
+# Github defaults
+safe: true
+highlighter: pygments
+lsi: false
+
 defaults:
   - 
     scope:
