@@ -92,15 +92,9 @@ dl.nv_termlist {
   margin-bottom: 12px;
 }
 .nv_join_button, .nv_join_button {
-/* orign:  */
-/*5cb85c 4cae4c */
-/* orig: e52e34 */
   background-color: #cc181e;
   border-color: #cc292e;
 }
 .nv_join_button:hover {
-  background-color: #ee1d24; /* #d92b31; */
-}
-.github-fork-ribbon {
-  background-color: #cc181e;
+  background-color: #ee1d24;
 }
