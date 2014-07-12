@@ -54,6 +54,13 @@ trash" would have helped Code Spaces save their business.
 us encourage cloud service providers to have sensible cyber safeguards
 to help prevent virtual destruction of your business.
 
-Tell your friends!
+Let your cloud providers and businesses know about NoVAD.  Please ask them
+to [join NoVAD]({{ site.linked_in_url }}).  Tell your friends to join.
+The lack of safeguards affects all of us.
+
+We need better content for this site. Ask on LinkedIn how you can contribute.
+For the technically inclined, the source for this website is
+[available on GitHub](https://github.com/novadclub/novadclub.github.io)
+so fork, fix, and send a pull request.
 
 </div>
