@@ -12,12 +12,14 @@ layout: none
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for page in site.pages %}
-      <item>
-        <title>{{ page.title | xml_escape }}</title>
-        <description>{{ page.description | xml_escape }}</description>
-        <link>{{ page.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ page.url | prepend: site.baseurl | prepend: site.url }}</guid>
-      </item>
+      {% if page.title and page.description %}
+	<item>
+	  <title>{{ page.title | xml_escape }}</title>
+	  <description>{{ page.description | xml_escape }}</description>
+	  <link>{{ page.url | prepend: site.baseurl | prepend: site.url }}</link>
+	  <guid isPermaLink="true">{{ page.url | prepend: site.baseurl | prepend: site.url }}</guid>
+	</item>
+      {% endif %}
     {% endfor %}
   </channel>
 </rss>
