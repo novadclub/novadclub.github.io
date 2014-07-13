@@ -44,7 +44,7 @@ Clients should have a VLockdown code to freeze all adminstrative
 access and destructive operations.
 
 VDelete&trade;
-Like the Trash can on your desktop, deleted cloud assets should not be
+: Like the Trash can on your desktop, deleted cloud assets should not be
 destroyed immediately.  Even a few hours delay before "emptying the
 trash" would have helped Code Spaces save their business.
 
