@@ -31,7 +31,7 @@ with just a few sensible cyber safeguards.
 
 {: .nv_termlist}
 VSCRAM&trade;
-: Nuclear reactors have a safety control rod axe man (SCRAM), which
+: Nuclear reactors have a SCRAM system, which
 forces a large insertion of negative reactivity.  Clients should have
 the ability to call in or text a VSCRAM code to a cloud service
 provider to force an immediate shutdown and freeze all of the client's
