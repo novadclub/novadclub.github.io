@@ -1,11 +1,12 @@
 # Site settings
 name: NoVAD
-title: "Stop Virtually Assured Destruction"
-description: "NoVAD advocates for sensible cyber safeguards to stop virtually assured destruction by criminals and terrorists"
+title: "Better Cloud Safeguards"
+description: "The cloud needs better safeguards to prevent disasters, when criminals and terrorists strike or ordinary mistakes happen"
 baseurl: ""
 url: "http://www.novad.club"
 linked_in_url: "http://n99.us/nli"
 exclude: ['README.md']
+tweet_text: "The Cloud Needs Airbags, better safeguards for your data"
 
 # Github defaults
 safe: true

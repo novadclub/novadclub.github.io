@@ -98,3 +98,7 @@ dl.nv_termlist {
 .nv_join_button:hover {
   background-color: #ee1d24;
 }
+.twitter-share-button[style] {
+  margin-left: 10px;
+  vertical-align: text-bottom !important;
+}

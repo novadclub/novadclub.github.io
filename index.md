@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "Stop Virtually Assured Destruction"
-description: "NoVAD advocates airbags for the cloud: sensible cyber safeguards to stop virtually assured destruction by criminals, terrorists, and ordinary mistakes"
+title: "The Cloud Needs Airbags"
 ---
 {% include index-jumbotron.html %}
 {::options parse_block_html="true" /}

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Clients"
-description: "NoVAD Clients advocate for a safer cloud to stop their business from being virtually destroyed by terrorists and criminals"
 ---
 ### Cloud Clients
 
@@ -45,4 +44,3 @@ to help us encourage cloud service providers to have sensible cyber
 safeguards to help prevent virtual destruction of your business.  You
 can also questions on our LinkedIn Group about cloud security or how
 to effect change at your cloud provider.
-
