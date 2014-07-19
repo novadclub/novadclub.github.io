@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Stop Virtually Assured Destruction"
-description: "NoVAD advocates for sensible cyber safeguards to stop virtually assured destruction by criminals and terrorists"
+description: "NoVAD advocates airbags for the cloud: sensible cyber safeguards to stop virtually assured destruction by criminals, terrorists, and ordinary mistakes"
 ---
 {% include index-jumbotron.html %}
 {::options parse_block_html="true" /}
@@ -25,9 +25,11 @@ artifacts from the panel.&rdquo;
 {: nvdef}
 
 #### The Solution
+{: #nv-solution}
 
-We can stop virtually assured destruction by criminals and terrorists
-with just a few sensible cyber safeguards.
+We need the equivalent of airbags to prevent virtually assured
+destruction by criminals, terrorists, and ordinary mistakes in the
+cloud.
 
 {: .nv_termlist}
 VSCRAM&trade;
@@ -35,7 +37,8 @@ VSCRAM&trade;
 forces a large insertion of negative reactivity.  Clients should have
 the ability to call in or text a VSCRAM code to a cloud service
 provider to force an immediate shutdown and freeze all of the client's
-servers and assets.
+servers and assets.  You can turn your computer and car off when problems
+happen.  The cloud needs a power-off button, too.
 
 VLockdown&trade;
 : If Code Spaces could have locked down administrative access, the
@@ -60,7 +63,7 @@ The lack of safeguards affects all of us.
 
 We need better content for this site. Ask on LinkedIn how you can contribute.
 For the technically inclined, the source for this website is
-[available on GitHub](https://github.com/novadclub/novadclub.github.io)
+[available on GitHub](http://n99.us/ngh)
 so fork, fix, and send a pull request.
 
 </div>
