@@ -11,7 +11,7 @@ cyber safeguards.
 
 #### Do This First
 
-Even without VSCRAM&trade;, VLockdown&trade;, and VDelete&trade;, you
+Even without VSCRAM, VLockdown, and VDelete, you
 can help safeguard your customers' data with the following standard
 security measures.
 

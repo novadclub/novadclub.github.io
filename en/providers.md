@@ -6,7 +6,7 @@ title: "Providers"
 
 Your clients are your livelihood. Your reputation depends on their
 ability to protect their customers' data.  When you implement
-VSCRAM&trade;, VLockdown&trade;, and VDelete&trade;, you are stopping
+VSCRAM, VLockdown, and VDelete, you are stopping
 terrorists and criminals from destroying your business.
 
 #### Implement Our Recommendations

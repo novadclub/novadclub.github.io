@@ -31,7 +31,7 @@ destruction by criminals, terrorists, and ordinary mistakes in the
 cloud.
 
 {: .nv_termlist}
-VSCRAM&trade;
+VSCRAM
 : Nuclear reactors have a SCRAM system, which
 forces a large insertion of negative reactivity.  Clients should have
 the ability to call in or text a VSCRAM code to a cloud service
@@ -39,13 +39,13 @@ provider to force an immediate shutdown and freeze all of the client's
 servers and assets.  You can turn your computer and car off when problems
 happen.  The cloud needs a power-off button, too.
 
-VLockdown&trade;
+VLockdown
 : If Code Spaces could have locked down administrative access, the
 attack would have been stopped without disrupting normal operations.
 Clients should have a VLockdown code to freeze all adminstrative
 access and destructive operations.
 
-VDelete&trade;
+VDelete
 : Like the Trash can on your desktop, deleted cloud assets should not be
 destroyed immediately.  Even a few hours delay before "emptying the
 trash" would have helped Code Spaces save their business.
